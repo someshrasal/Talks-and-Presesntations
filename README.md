@@ -1,6 +1,6 @@
 # Talks-and-Presesntations
 
-# This are the collection of talks I presented in various meetups and other Places
+# Here you will find the collection of talks I presented in various meetups and other Places
 
 
 | Sr No | Talk Name                | Presented at    |
